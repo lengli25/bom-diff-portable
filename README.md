@@ -1,3 +1,5 @@
+📦 [Download BOM Diff 2.2.1 Portable Edition](https://github.com/lengli25/bom-diff-portable/releases/tag/v2.2.1)
+
 BOM Diff Portable 2.2.X
 
 BOM Diff is an engineering tool for comparing Bill of Materials (BOM) files.
