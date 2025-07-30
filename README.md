@@ -18,7 +18,7 @@ Features
 Run
 
 1. Extract the folder anywhere.
-2. Launch BomDiff-2.2.0.exe
+2. Launch BomDiff-2.2.X.exe
 
 ----------------------------------------
 Package Contents
