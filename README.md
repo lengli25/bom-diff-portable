@@ -1,4 +1,4 @@
-📦 [Download BOM Diff 2.2.1 Portable Edition](https://github.com/lengli25/bom-diff-portable/releases/tag/v2.2.1)
+📘 [Visit the official download page](https://lengli25.github.io/bom-diff-portable/)
 
 BOM Diff Portable 2.2.X
 
