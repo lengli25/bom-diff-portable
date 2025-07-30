@@ -1,0 +1,29 @@
+BOM Diff 2.2.0 – Portable Edition
+Copyright (c) 2025 Sergey Lysenko. All rights reserved.
+
+LICENSE AGREEMENT
+
+1. License Grant
+This software is provided free of charge ("Freeware") for personal and professional use.
+You are allowed to:
+- Download and use the software on any number of computers.
+- Share the original, unmodified ZIP package with other users.
+
+2. Restrictions
+You are NOT allowed to:
+- Modify, reverse-engineer, or decompile the software.
+- Resell or distribute the software for commercial purposes.
+- Repackage the software or remove copyright notices.
+
+3. Ownership
+This software remains the intellectual property of Sergey Lysenko.
+All rights not expressly granted are reserved.
+
+4. Disclaimer
+The software is provided "AS IS", without any warranties or guarantees of any kind.
+Use at your own risk.
+
+5. Future Versions
+The author reserves the right to release commercial versions or additional paid features in the future.
+
+---
