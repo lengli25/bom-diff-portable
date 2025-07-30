@@ -4,8 +4,60 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>BOM Diff Portable</title>
+  <style>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      max-width: 800px;
+      margin: 2em auto;
+      line-height: 1.6;
+      padding: 0 1em;
+      color: #333;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    a {
+      color: #007acc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    li {
+      margin-bottom: 0.5em;
+    }
+    footer {
+      margin-top: 3em;
+      font-size: 0.9em;
+      color: #666;
+      border-top: 1px solid #ccc;
+      padding-top: 1em;
+      text-align: center;
+    }
+    .author {
+      margin-top: 2em;
+      font-size: 0.95em;
+      color: #444;
+    }
+    .banner {
+      text-align: center;
+      margin-bottom: 2em;
+    }
+    .banner img {
+      max-width: 100%;
+      height: auto;
+    }
+  </style>
 </head>
-<body style="font-family: sans-serif; max-width: 800px; margin: 2em auto; line-height: 1.6">
+<body>
+  <div class="banner">
+    <img src="https://raw.githubusercontent.com/lengli25/bom-diff-portable/main/docs/logo.png" alt="BOM Diff Logo" />
+  </div>
+
   <h1>BOM Diff Portable Edition</h1>
   <p><strong>Version:</strong> 2.2.1</p>
   <p><strong>Description:</strong> A lightweight engineering tool for comparing BOM (Bill of Materials) files. Designed by an engineer, for engineers. No installation required.</p>
@@ -21,7 +73,12 @@
   <h2>About</h2>
   <p>This tool supports .xls, .xlsx, and .csv files and performs logical comparisons by Part, Reference, and Quantity. Unlike text diff tools, BOM Diff understands BOM structure and helps engineers track real changes.</p>
 
-  <footer style="margin-top: 3em; font-size: 0.9em; color: #888">
+  <div class="author">
+    <p><strong>Author:</strong> Sergey Lysenko</p>
+    <p><strong>Email:</strong> <a href="mailto:lengli25.sl@gmail.com">lengli25.sl@gmail.com</a></p>
+  </div>
+
+  <footer>
     <p>Made by an engineer. Distributed as freeware. No installation. No registration.</p>
   </footer>
 </body>
