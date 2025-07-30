@@ -1,4 +1,4 @@
-BOM Diff 2.2.0 – Portable Edition
+BOM Diff 2.2.X – Portable Edition
 Copyright (c) 2025 Sergey Lysenko. All rights reserved.
 
 LICENSE AGREEMENT
