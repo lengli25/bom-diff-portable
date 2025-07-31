@@ -2,6 +2,11 @@
 
 BOM Diff Portable 2.2.X
 
+![Stars](https://img.shields.io/github/stars/lengli25/bom-diff-portable?style=social)
+![Release](https://img.shields.io/github/v/release/lengli25/bom-diff-portable)
+![Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Page%20Views&query=value&url=https://api.countapi.xyz/hit/bomdiff/github-pages)
+
+
 BOM Diff is an engineering tool for comparing Bill of Materials (BOM) files.
 It supports .xls, .xlsx, .csv and performs logical comparisons by
 Part, Reference, Quantity.
